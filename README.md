@@ -20,7 +20,7 @@ menu.setMenuBackgroundColor("#000");
 =======================
 Add a some objects
 =======================
-var lbl = Ti.UI.createLabel({text: "TESTE", font:{fontSize: 30}});
+var lbl = Ti.UI.createLabel({text: "MY MENU", font:{fontSize: 30}});
 menu.add(lbl);
 
 =======================
