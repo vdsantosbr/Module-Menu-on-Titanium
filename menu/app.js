@@ -1,4 +1,4 @@
-Ti.include("class.js");`
+Ti.include("class.js");
 
 module.exports = function(e)
 {
